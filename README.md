@@ -7,6 +7,9 @@ To design and implement a D-flip-flop using Cadence EDA tools, simulate its beha
 Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
+circuit diagram:
+![image](https://github.com/user-attachments/assets/904ba3c2-608f-45c3-84e7-5e298ff62d69)
+
 
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
